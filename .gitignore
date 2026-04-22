@@ -1,0 +1,11 @@
+# Generated and local-only files
+.generated/
+docs/
+overview.html
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
