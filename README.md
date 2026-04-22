@@ -19,7 +19,7 @@ A curated showcase of GPT Image 2 prompt examples collected from public communit
 | Active categories | 12 |
 | Featured prompts | 6 |
 | Candidate prompts | 3 |
-| Last updated | 2026-04-22 07:38 UTC |
+| Last updated | 2026-04-22 10:42 UTC |
 
 
 ## Category Navigation
@@ -44,6 +44,7 @@ A curated showcase of GPT Image 2 prompt examples collected from public communit
 
 - Category: **Poster & Flyer**
 - Source: [Tweet](https://x.com/A9Quant/status/2046228485841334559)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/2213036378327550434/1.jpg) | ![](images/2213036378327550434/2.jpg) |
@@ -110,6 +111,7 @@ Naturally add the author signature in the bottom corner: @a9quant
 
 - Category: **Infographic & Diagram**
 - Source: [Tweet](https://x.com/MrLarus/status/2046263153546174935)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/2035783697861618052/1.jpg) | ![](images/2035783697861618052/2.jpg) |
@@ -143,6 +145,7 @@ The final product should satisfy:
 
 - Category: **UI, App & Dashboard**
 - Source: [Tweet](https://x.com/MrLarus/status/2046627021674168640)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/343496065166897240/1.jpg) | ![](images/343496065166897240/2.jpg) |
@@ -168,6 +171,7 @@ Final requirement: the first glance should give strong theme recognition and a m
 
 - Category: **Maps, Cards & Structured Layouts**
 - Source: [Tweet](https://x.com/alanlovelq/status/2046378199681257920)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/6206583148603905237/1.jpg) | ![](images/6206583148603905237/2.jpg) |
@@ -200,6 +204,7 @@ Please do not make it a regular commercial promotional poster. Highlight the fea
 
 - Category: **Maps, Cards & Structured Layouts**
 - Source: [Tweet](https://x.com/MrLarus/status/2046627021674168640)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/7844775649859489515/1.jpg) | ![](images/7844775649859489515/2.jpg) |
@@ -237,6 +242,7 @@ The final result should be a complete infographic rather than plain text paragra
 
 - Category: **UI, App & Dashboard**
 - Source: [Tweet](https://x.com/tehno_maniak/status/2044754985183785208#reversed-1)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/8658208309035695747/1.jpg) | ![](images/8658208309035695747/2.jpg) |
@@ -255,6 +261,7 @@ The final result should be a complete infographic rather than plain text paragra
 [Open doc](docs/portrait-photography.md)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
 | Preview |
 |---|
 | ![](images/2045905067845271555/1.jpg) |
@@ -267,6 +274,7 @@ Title: **🚨NEW GPT IMAGE 2 UPDATE ‼️**
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview |
 |---|
 | ![](images/2045892003775361198/1.jpg) |
@@ -281,6 +289,7 @@ Title: **gpt-image-2 的复杂提示词准确性测试**
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview |
 |---|
 | ![](images/4378175687214433214/1.jpg) |
@@ -293,6 +302,7 @@ Title: **35mm film photography with harsh convenience store fluorescent lighting
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
 | Preview |
 |---|
 | ![](images/4275483297758250485/1.jpg) |
@@ -305,6 +315,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview |
 |---|
 | ![](images/736400473081567536/1.jpg) |
@@ -317,6 +328,7 @@ Title: **35mm film photography, warm vintage Japanese onsen ryokan aesthetic, so
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview |
 |---|
 | ![](images/5194973486602444792/1.jpg) |
@@ -329,6 +341,7 @@ Title: **35mm color film photography with harsh direct on-camera flash, specular
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
 | Preview |
 |---|
 | ![](images/4288461684770451577/1.jpg) |
@@ -341,6 +354,7 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview |
 |---|
 | ![](images/6591173955157248759/1.jpg) |
@@ -353,6 +367,7 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview |
 |---|
 | ![](images/625279876151917790/1.jpg) |
@@ -365,6 +380,7 @@ Title: **9:16 vertical — a 3x3 grid collage (nine images) forming a Korean ido
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview |
 |---|
 | ![](images/450811312410606882/1.jpg) |
@@ -377,6 +393,7 @@ Title: **9:16 vertical — editorial portrait, single subject soft black mist fi
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview |
 |---|
 | ![](images/1784705590083556708/1.jpg) |
@@ -389,6 +406,7 @@ Title: **9:16 vertical — Japanese Fuji film style portrait, single subject Fuj
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview |
 |---|
 | ![](images/5850380260446565735/1.jpg) |
@@ -408,6 +426,7 @@ _More in [docs/portrait-photography.md](docs/portrait-photography.md)._
 [Open doc](docs/cinematic-film-still.md)
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/2045560665071579160/1.jpg) | ![](images/2045560665071579160/2.jpg) |
@@ -420,6 +439,7 @@ Title: **GPT-image 2 完美胜任这种3D立体远透视文字效果**
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red)
+
 | Preview |
 |---|
 | ![](images/1002236075857108734/1.jpg) |
@@ -442,6 +462,7 @@ Title: **围绕【主题】自动生成一张顶级暗黑史诗概念海报 / �
 [Open doc](docs/poster-flyer.md)
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview |
 |---|
 | ![](images/2045873940883808523/1.jpg) |
@@ -467,6 +488,7 @@ Title: **gpt image 2生成城市印象创意海报。**
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red)
+
 | Preview |
 |---|
 | ![](images/2045527750606487877/1.jpg) |
@@ -483,6 +505,7 @@ Title: **gpt image 2生成城市剪纸艺术海报。**
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red)
+
 | Preview |
 |---|
 | ![](images/2045506567735558336/1.jpg) |
@@ -499,6 +522,7 @@ Title: **gpt image 2生成东风美学海报：穷奇。**
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview |
 |---|
 | ![](images/2045504669401653414/1.jpg) |
@@ -526,6 +550,7 @@ Title: **GPT-image-2 生成汉服拆解图🤯图鉴式风格，拆的很细！*
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red)
+
 | Preview |
 |---|
 | ![](images/2045484598487060917/1.jpg) |
@@ -544,6 +569,7 @@ Title: **GPT image 2生成城市宣传海报。效果也太惊艳了吧！**
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red)
+
 | Preview |
 |---|
 | ![](images/8141124343457281695/1.jpg) |
@@ -556,6 +582,7 @@ Title: **新中式水墨山水海报，竖版9:16构图，东方极简美学风�
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red)
+
 | Preview |
 |---|
 | ![](images/5383472273157115884/1.jpg) |
@@ -574,6 +601,7 @@ Title: **请围绕【主题】自动生成一张顶级概念海报 / 信息图�
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red)
+
 | Preview |
 |---|
 | ![](images/1993280571119031013/1.jpg) |
@@ -587,6 +615,7 @@ Title: **请根据【主题】自动生成一张“博物馆图鉴式中文拆�
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview |
 |---|
 | ![](images/7099410424321934115/1.jpg) |
@@ -602,6 +631,7 @@ Title: **请根据【主题：xxx】自动生成一张高审美的“轮廓宇�
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
 | Preview |
 |---|
 | ![](images/5550770706983988366/1.jpg) |
@@ -614,6 +644,7 @@ Create a "Where is [Your Name]" crowd search poster set in the city of your choo
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red)
+
 | Preview |
 |---|
 | ![](images/4211601130410459509/1.jpg) |
@@ -626,6 +657,7 @@ Generate a 1980s propaganda poster. Use the exact slogan "热烈庆祝GPT-Image-
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/2213036378327550434/1.jpg) | ![](images/2213036378327550434/2.jpg) |
@@ -695,6 +727,7 @@ Naturally add the author signature in the bottom corner: @a9quant
 [Open doc](docs/illustration-artwork.md)
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red)
+
 | Preview |
 |---|
 | ![](images/2045875219307655337/1.jpg) |
@@ -709,6 +742,7 @@ Title: **gpt image 2生成创意插画：锦鲤。**
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview |
 |---|
 | ![](images/2045744531686166878/1.jpg) |
@@ -744,6 +778,7 @@ Title: **gpt image 2生成城市宣传插画。**
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red)
+
 | Preview |
 |---|
 | ![](images/943121200374663262/1.jpg) |
@@ -756,6 +791,7 @@ Title: **一张手绘风格的城市美食地图，以成都为主题。画面�
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview |
 |---|
 | ![](images/2586022174537060352/1.jpg) |
@@ -768,6 +804,7 @@ Title: **以涂鸦速写风表现【一个厉害的AI builder】，整体呈现�
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
 | Preview |
 |---|
 | ![](images/1249775391037208896/1.jpg) |
@@ -780,6 +817,7 @@ Create a single image containing a grid of 100 completely unique pixel art items
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/8719357979198722196/1.jpg) | ![](images/8719357979198722196/2.jpg) |
@@ -793,6 +831,7 @@ Title: **{**
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/2560744784335959023/1.jpg) | ![](images/2560744784335959023/2.jpg) |
@@ -811,6 +850,7 @@ create a solid orange rectangular banner featuring a cooking pot icon, the text 
 [Open doc](docs/typography-text-layout.md)
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview |
 |---|
 | ![](images/2045772039521542202/1.jpg) |
@@ -837,6 +877,7 @@ S型流动构图，画面从下方向上延展，一条由足球运动轨迹形�
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red)
+
 | Preview |
 |---|
 | ![](images/3892277736539128790/1.jpg) |
@@ -854,6 +895,7 @@ Title: **以眼部特写图片为基础，生成3:4的四屏构图超写实眼�
 [Open doc](docs/character-avatar.md)
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red)
+
 | Preview |
 |---|
 | ![](images/2392798205386101869/1.jpg) |
@@ -866,6 +908,7 @@ Title: **生成一张竖版手机截图风格的图片，整体比例接近 9:16
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
 | Preview |
 |---|
 | ![](images/3400613517742089765/1.jpg) |
@@ -911,6 +954,7 @@ create a character reference sheet similar to official setting materials.
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/389753669336724394/1.jpg) | ![](images/389753669336724394/2.jpg) |
@@ -924,6 +968,7 @@ Generate avatars of various emperors from the {argument name="dynasty" default="
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/1635289610037751286/1.jpg) | ![](images/1635289610037751286/2.jpg) |
@@ -942,6 +987,7 @@ Create {argument name="items" default="fan goods"} for a standard {argument name
 [Open doc](docs/ui-app-dashboard.md)
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/2045836554451706125/1.jpg) | ![](images/2045836554451706125/2.jpg) |
@@ -960,6 +1006,7 @@ Title: **GPT image 2简直是绝佳的设计搭子**
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/2045700163277107473/1.jpg) | ![](images/2045700163277107473/2.jpg) |
@@ -974,6 +1021,7 @@ UIデザインからデプロイ可能なコード生成までを一気通貫で
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red)
+
 | Preview |
 |---|
 | ![](images/5582015968609661886/1.jpg) |
@@ -986,6 +1034,7 @@ Title: **用这种风格帮我生成一套UI设计系统，包含网页、移动
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red)
+
 | Preview |
 |---|
 | ![](images/1157463773281033367/1.jpg) |
@@ -1007,6 +1056,7 @@ Generate for me a UI design system with a very cutting-edge, bold, and unique th
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red)
+
 | Preview |
 |---|
 | ![](images/6589717643888345135/1.jpg) |
@@ -1081,6 +1131,7 @@ Focus on product selling points, pricing hierarchy, gift-list modules, product n
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/343496065166897240/1.jpg) | ![](images/343496065166897240/2.jpg) |
@@ -1104,6 +1155,7 @@ Final requirement: the first glance should give strong theme recognition and a m
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/7541474732001147822/1.jpg) | ![](images/7541474732001147822/2.jpg) |
@@ -1126,6 +1178,7 @@ Generate a collaboration poster featuring the same pet (absolutely consistent in
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/4160963701186605112/1.jpg) | ![](images/4160963701186605112/2.jpg) |
@@ -1146,6 +1199,7 @@ _More in [docs/ui-app-dashboard.md](docs/ui-app-dashboard.md)._
 [Open doc](docs/social-screenshot.md)
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red)
+
 | Preview |
 |---|
 | ![](images/9076338076504933444/1.jpg) |
@@ -1158,6 +1212,7 @@ Title: **9:16 的图片比例，生成一张抖音直播的截图，里面是 �
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview |
 |---|
 | ![](images/4302247678828142989/1.jpg) |
@@ -1171,6 +1226,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red)
+
 | Preview |
 |---|
 | ![](images/5645589084515689195/1.jpg) |
@@ -1184,6 +1240,7 @@ Title: **1、生成特朗普和金正恩在抖音直播间打PK的截图**
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/9143522233592151584/1.jpg) | ![](images/9143522233592151584/2.jpg) |
@@ -1197,6 +1254,7 @@ Generate a GTA 6 gameplay screenshot of [scene description]
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
 | Preview |
 |---|
 | ![](images/5669905353819805309/1.jpg) |
@@ -1227,6 +1285,7 @@ generate a screenshot of a Douyin live stream, inside is Liu Yifei live streamin
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/7612441541437659896/1.jpg) | ![](images/7612441541437659896/2.jpg) |
@@ -1278,6 +1337,7 @@ Avoid: poster feel, studio portrait feel, e-commerce feel, anime feel, cosplay f
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/6624088905259376768/1.jpg) | ![](images/6624088905259376768/2.jpg) |
@@ -1309,6 +1369,7 @@ The final piece should:
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/4897574108240781553/1.jpg) | ![](images/4897574108240781553/2.jpg) |
@@ -1322,6 +1383,7 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/9014604558516017967/1.jpg) | ![](images/9014604558516017967/2.jpg) |
@@ -1335,6 +1397,7 @@ create a detailed production flowchart for the dish {argument name="dish name" d
 ```
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/9207552825478190056/1.jpg) | ![](images/9207552825478190056/2.jpg) |
@@ -1348,6 +1411,7 @@ Title: **{**
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/2035783697861618052/1.jpg) | ![](images/2035783697861618052/2.jpg) |
@@ -1398,6 +1462,7 @@ functions and usage scenarios
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/2792027281911673836/1.jpg) | ![](images/2792027281911673836/2.jpg) |
@@ -1416,6 +1481,7 @@ Generate an e-commerce product detail page for [product name]
 [Open doc](docs/comparison-benchmark.md)
 
 ![Language-CN](https://img.shields.io/badge/Language-CN-red) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/2045743158860878312/1.jpg) | ![](images/2045743158860878312/2.jpg) |
@@ -1433,6 +1499,7 @@ Title: **MJ v8.1 vs GPT Image 2**
 [Open doc](docs/maps-cards-layouts.md)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
 | Preview |
 |---|
 | ![](images/2045836887684694395/1.jpg) |
@@ -1507,6 +1574,7 @@ The composition should balance text and visuals while keeping the design elegant
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/1227944273825620066/1.jpg) | ![](images/1227944273825620066/2.jpg) |
@@ -1538,6 +1606,7 @@ Do not make it look like a commercial promo poster. Emphasize knowledge organiza
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green)
+
 | Preview |
 |---|
 | ![](images/8786544638334938046/1.jpg) |
@@ -1550,6 +1619,7 @@ Create an image with a 10x10 grid of objects whose names all start with the lett
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/7844775649859489515/1.jpg) | ![](images/7844775649859489515/2.jpg) |
@@ -1585,6 +1655,7 @@ The final result should be a complete infographic rather than plain text paragra
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple) ![Prompt-Detailed](https://img.shields.io/badge/Prompt-Detailed-yellow)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/6206583148603905237/1.jpg) | ![](images/6206583148603905237/2.jpg) |
@@ -1615,6 +1686,7 @@ Please do not make it a regular commercial promotional poster. Highlight the fea
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/459396360438184052/1.jpg) | ![](images/459396360438184052/2.jpg) |
@@ -1628,6 +1700,7 @@ generate a {argument name="card type" default="Highlight card"}.
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/257651696273170024/1.jpg) | ![](images/257651696273170024/2.jpg) |
@@ -1640,6 +1713,7 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
 ```
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-green) ![Multi-Image](https://img.shields.io/badge/Images-Multi-purple)
+
 | Preview 1 | Preview 2 |
 |---|---|
 | ![](images/1735419791910403431/1.jpg) | ![](images/1735419791910403431/2.jpg) |
